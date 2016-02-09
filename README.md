@@ -1,3 +1,3 @@
 # Adventure
-Java game developed by Gunner Greene, "Kazumi Hashimoto".
+Java game developed by Gunner Greene, "Axel Scythe".
 Created using Eclipse by Lunar
